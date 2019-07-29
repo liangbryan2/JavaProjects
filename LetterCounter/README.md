@@ -2,7 +2,7 @@
 
 ## Reads a line of text and outputs the occurences of each letter.
 
-The line of text should end with a period ".".
+The line of text should end with a period .
 
 For example:
 
